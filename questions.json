@@ -1,0 +1,302 @@
+[
+  {
+    "questionNo": "Q1.",
+    "question": "Which figure of speech is used in the phrase 'shimmered like silver coins'?",
+    "options": [
+      "Metaphor",
+      "Onomatopoeia",
+      "Simile",
+      "Hyperbole"
+    ],
+    "correct": 2,
+    "explanation": "The phrase compares the leaves' shimmer to silver coins using 'like,' making it a simile."
+  },
+  {
+    "questionNo": "Q2.",
+    "question": "The phrase 'storms as fierce as dragons' is an example of:",
+    "options": [
+      "Hyperbole",
+      "Simile",
+      "Alliteration",
+      "Personification"
+    ],
+    "correct": 1,
+    "explanation": "The phrase compares the intensity of the storms to dragons using 'as,' making it a simile."
+  },
+  {
+    "questionNo": "Q3.",
+    "question": "'Snap, rustle, and crack' in the passage are examples of:",
+    "options": [
+      "Hyperbole",
+      "Simile",
+      "Onomatopoeia",
+      "Alliteration"
+    ],
+    "correct": 2,
+    "explanation": "These words mimic the actual sounds they describe, making them examples of onomatopoeia."
+  },
+  {
+    "questionNo": "Q4.",
+    "question": "The phrase 'his heart thumping in his chest like a drumbeat' is an example of:",
+    "options": [
+      "Metaphor",
+      "Simile",
+      "Personification",
+      "Hyperbole"
+    ],
+    "correct": 1,
+    "explanation": "The comparison of the heartbeat to a drumbeat using 'like' creates a simile."
+  },
+  {
+    "questionNo": "Q5.",
+    "question": "Which figure of speech is employed in 'winds strong enough to tear trees from the ground'?",
+    "options": [
+      "Hyperbole",
+      "Alliteration",
+      "Onomatopoeia",
+      "Irony"
+    ],
+    "correct": 0,
+    "explanation": "This phrase exaggerates the strength of the winds, making it an example of hyperbole."
+  },
+  {
+    "questionNo": "Q6.",
+    "question": "In 'Rowan spun around, his heart thumping in his chest like a drumbeat,' the simile serves to:",
+    "options": [
+      "Minimise the intensity of the moment",
+      "Illustrate Rowan's calmness",
+      "Emphasise the heightened tension Rowan feels",
+      "Describe the sound of Rowan's breathing"
+    ],
+    "correct": 2,
+    "explanation": "The comparison to a drumbeat underscores Rowan's anxiety."
+  },
+  {
+    "questionNo": "Q7.",
+    "question": "The description 'fierce as dragons' serves to:",
+    "options": [
+      "Add humour to the passage",
+      "Convey a sense of nostalgia",
+      "Emphasise the storm's fierceness",
+      "Undermine the seriousness of the scene"
+    ],
+    "correct": 2,
+    "explanation": "Comparing the storm to a dragon intensifies its depiction as powerful and threatening."
+  },
+  {
+    "questionNo": "Q8.",
+    "question": "What effect does the use of onomatopoeia have in 'rustle of leaves'?",
+    "options": [
+      "It creates a visual image",
+      "It evokes an auditory sense",
+      "It suggests Rowan's movement",
+      "It adds irony to the situation"
+    ],
+    "correct": 1,
+    "explanation": "The word 'rustle' imitates the sound of leaves, helping readers hear the action."
+  },
+  {
+    "questionNo": "Q9.",
+    "question": "The use of 'dragons' in 'storms as fierce as dragons' is meant to:",
+    "options": [
+      "Downplay the storm’s intensity",
+      "Suggest that dragons are real",
+      "Exaggerate the storm's power",
+      "Provide comic relief"
+    ],
+    "correct": 2,
+    "explanation": "The comparison to dragons, which are mythical and powerful creatures, emphasises the storm’s strength."
+  },
+  {
+    "questionNo": "Q10.",
+    "question": "In the phrase 'Rowan moved cautiously, his footsteps as soft as a whisper,' what effect does the simile create in the context of the passage?",
+    "options": [
+      "It emphasises the peacefulness of the night.",
+      "It highlights Rowan's fear of being noticed.",
+      "It contrasts the noisiness of the surroundings.",
+      "It suggests Rowan's strength and agility."
+    ],
+    "correct": 1,
+    "explanation": "The comparison to a whisper emphasises Rowan's cautiousness and his effort to avoid making any noise, indicating his concern about remaining unnoticed."
+  },
+  {
+    "questionNo": "Q11.",
+    "question": "The description 'his heart thumping in his chest like a drumbeat' not only compares the heartbeat to a drumbeat but also:",
+    "options": [
+      "Suggests a rhythmic and controlled state of mind.",
+      "Implies a calm and serene emotional state.",
+      "Conveys an uncontrollable and urgent fear.",
+      "Suggests Rowan is listening to music in the forest."
+    ],
+    "correct": 2,
+    "explanation": "The drumbeat imagery suggests an intense, rapid heartbeat that conveys a sense of urgency, fear, or heightened alertness, reflecting Rowan's anxiety in the moment."
+  },
+  {
+    "questionNo": "Q12.",
+    "question": "How does the hyperbole 'winds strong enough to tear trees from the ground' affect the reader's perception of Rowan's journey?",
+    "options": [
+      "It downplays the challenges he faces.",
+      "It portrays his journey as trivial and easy.",
+      "It exaggerates the dangers to heighten the sense of struggle.",
+      "It suggests that Rowan is imagining the dangers."
+    ],
+    "correct": 2,
+    "explanation": "The hyperbolic description amplifies the reader's understanding of the severe challenges Rowan faces, making his journey appear even more arduous and perilous."
+  },
+  {
+    "questionNo": "Q13.",
+    "question": "The choice of the word 'crack' in 'another crack echoed through the forest' serves what purpose in the narrative?",
+    "options": [
+      "It provides a rhythmic pattern to the story.",
+      "It creates a soothing effect for the reader.",
+      "It introduces an auditory image that heightens tension.",
+      "It adds comic relief to the scene."
+    ],
+    "correct": 2,
+    "explanation": "The word 'crack' mimics the sound of something breaking, creating an auditory image that contributes to the suspense and tension in the scene."
+  },
+  {
+    "questionNo": "Q14.",
+    "question": "How does the phrase 'Rowan's limbs ached as though they had been weighed down by stones' deepen the reader's understanding of his condition?",
+    "options": [
+      "It suggests that Rowan is unusually strong.",
+      "It implies that Rowan is experiencing only mild discomfort.",
+      "It conveys a profound sense of fatigue and heaviness.",
+      "It indicates that Rowan is carrying actual stones."
+    ],
+    "correct": 2,
+    "explanation": "The simile comparing Rowan's limbs to being weighed down by stones vividly illustrates the extent of his exhaustion and struggle."
+  },
+  {
+    "questionNo": "Q15.",
+    "question": "What additional meaning is created by using 'thumping like a drumbeat' to describe Rowan's heartbeat?",
+    "options": [
+      "It suggests Rowan's heartbeat is steady and calm.",
+      "It creates a sense of routine and familiarity.",
+      "It evokes an image of urgency and impending danger.",
+      "It implies that Rowan is playing a musical instrument."
+    ],
+    "correct": 2,
+    "explanation": "The comparison to a drumbeat emphasises the intense and rapid nature of Rowan's heartbeat, suggesting heightened tension or fear."
+  },
+  {
+    "questionNo": "Q16.",
+    "question": "How does the simile 'storms as fierce as dragons' compare to 'winds strong enough to tear trees from the ground' in terms of their effects on the narrative tone?",
+    "options": [
+      "Both comparisons exaggerate the natural elements, making them seem more dangerous and otherworldly.",
+      "The first simile makes the storms seem mythical, while the second one is more realistic.",
+      "The first simile evokes a feeling of calm, while the second intensifies the chaos.",
+      "Both comparisons minimise the danger Rowan faces by describing ordinary weather conditions."
+    ],
+    "correct": 0,
+    "explanation": "The similes elevate the natural forces to a level of myth and fantasy, adding a sense of danger and extraordinary challenges to Rowan's journey."
+  },
+  {
+    "questionNo": "Q17.",
+    "question": "How does the ironic tone in 'Rowan wondered if those prophecies were merely tales' compare to 'I would climb the highest peak' in shaping Rowan's character?",
+    "options": [
+      "The first instance reveals Rowan's scepticism, while the second shows his exaggerated resolve.",
+      "Both show Rowan's belief in the prophecies.",
+      "The first emphasises his dedication, while the second indicates his reluctance.",
+      "Both portray Rowan as indifferent to his quest."
+    ],
+    "correct": 0,
+    "explanation": "The ironic doubt about the prophecies contrasts with the hyperbolic statement, illustrating Rowan's complex mix of scepticism and determination."
+  },
+  {
+    "questionNo": "Q18.",
+    "question": "How does the metaphor 'he was the light that banished the shadows' compare to the alliteration in 'favour the fearless' in emphasising Rowan's role?",
+    "options": [
+      "The metaphor presents Rowan as a source of hope, while the alliteration reinforces his bravery.",
+      "Both suggest Rowan is struggling with fear.",
+      "The alliteration implies doubt about Rowan's abilities, while the metaphor downplays his importance.",
+      "Neither significantly enhances the portrayal of Rowan’s character."
+    ],
+    "correct": 0,
+    "explanation": "The metaphor highlights Rowan's transformative role, while the repeated 'f' sound in 'favour the fearless' strengthens the theme of courage."
+  },
+  {
+    "questionNo": "Q19.",
+    "question": "How does the hyperbole in 'winds strong enough to tear trees' compare to 'climb the highest peak' in terms of depicting Rowan's journey?",
+    "options": [
+      "Both exaggerate the challenges he faces, heightening the sense of an epic quest.",
+      "'Climb the highest peak' is more realistic than the hyperbole about the winds.",
+      "The hyperbole about the winds suggests danger, while the 'highest peak' implies hope.",
+      "Neither phrase significantly impacts the tone of the story."
+    ],
+    "correct": 0,
+    "explanation": "The exaggerated language emphasises the magnitude of Rowan's trials, making his journey appear daunting and heroic."
+  },
+  {
+    "questionNo": "Q20.",
+    "question": "How does the alliteration in 'faithful forest' compare to 'fierce as dragons' in affecting the reader’s perception of the setting?",
+    "options": [
+      "'Faithful forest' creates a comforting image, while 'fierce as dragons' heightens the danger.",
+      "Both contribute to a sense of calm and peace.",
+      "'Faithful forest' and 'fierce as dragons' both suggest a dangerous environment.",
+      "Neither significantly alters the mood of the passage."
+    ],
+    "correct": 0,
+    "explanation": "The alliteration in 'faithful forest' softens the atmosphere, making the forest seem supportive, whereas 'fierce as dragons' intensifies the threat."
+  },
+  {
+    "questionNo": "Q21.",
+    "question": "How does the allusion 'his strength rivalled that of Hercules' differ from the hyperbole 'storms as fierce as dragons' in terms of their emotional impact?",
+    "options": [
+      "The allusion invokes a sense of admiration for Rowan's strength, while the hyperbole creates fear of the natural elements.",
+      "Both phrases primarily suggest that Rowan is weak.",
+      "The hyperbole diminishes Rowan's efforts, while the allusion exaggerates his struggles.",
+      "Neither phrase adds an emotional dimension to the narrative."
+    ],
+    "correct": 0,
+    "explanation": "Comparing Rowan to Hercules emphasises his heroic qualities, while the exaggerated description of the storms emphasises the daunting obstacles he encounters."
+  },
+  {
+    "questionNo": "Q22.",
+    "question": "How does allusion enhance the meaning of a literary work?",
+    "options": [
+      "By using simple language",
+      "By connecting to well-known stories or events, adding depth to the text",
+      "By describing characters in detail",
+      "By limiting the reader's understanding"
+    ],
+    "correct": 1,
+    "explanation": "Allusion helps readers relate to the text by referencing familiar cultural or historical events, enriching the narrative."
+  },
+  {
+    "questionNo": "Q23.",
+    "question": "How does hyperbole affect the tone of a story?",
+    "options": [
+      "It makes the tone serious",
+      "It exaggerates for emphasis, adding humour or drama",
+      "It limits emotional impact",
+      "It confuses the narrative"
+    ],
+    "correct": 1,
+    "explanation": "Hyperbole emphasises certain points, making situations more dramatic or humorous, which can influence the reader's emotional response."
+  },
+  {
+    "questionNo": "Q24.",
+    "question": "What is the role of onomatopoeia in literature?",
+    "options": [
+      "To provide visual descriptions",
+      "To imitate sounds, enhancing the sensory experience of the text",
+      "To simplify the narrative",
+      "To create confusion"
+    ],
+    "correct": 1,
+    "explanation": "Onomatopoeia helps readers hear the sounds in a story, making the experience more immersive and engaging."
+  },
+  {
+    "questionNo": "Q25.",
+    "question": "How does the clever use of allusion challenge readers to expand their horizons, encouraging them to uncover layers of meaning within the text?",
+    "options": [
+      "By confining the interpretation to one perspective",
+      "By referencing well-known figures or events that invite readers to explore additional contexts and insights",
+      "By simplifying complex narratives",
+      "By detracting from the main plot"
+    ],
+    "correct": 1,
+    "explanation": "Allusion opens doors to broader interpretations, enriching the reading experience and fostering deeper understanding."
+  }
+]
